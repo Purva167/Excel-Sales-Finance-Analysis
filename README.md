@@ -1,6 +1,6 @@
 # Excel-Sales-Finance-Analysis
 
-Welcome to the CodeBasics Excel Sales and Finance Analytics project! This project aims to provide a comprehensive learning experience in using Microsoft Excel to analyze and interpret sales and financial data. Here, you will find an overview of the project, the tools and technologies used, and the skills you will develop.
+Welcome to the CodeBasics Excel Sales and Finance Analytics project! This project aims to provide a comprehensive learning experience in using Microsoft Excel to analyze and interpret sales and financial data. Here, you will find an overview of the project, the tools and technologies used, and the skills developed.
 ### Project Overview
 **Sales Analytics** : Focuses on analyzing sales data to understand performance trends, customer behavior, and product insights.
 1. Create a customer performance report(https://github.com/Purva167/Excel-Sales-Finance-Analysis/blob/main/Customer%20Net%20sales%20performance%20India.pdf) 
@@ -21,18 +21,18 @@ Welcome to the CodeBasics Excel Sales and Finance Analytics project! This projec
 
 
 ### Skills learned:
-Learn to import data from different sources like CSV and Excel files.
-Efficiency in ETL methodology (Extract, Transform, Load).
-Ability to derive fiscal months and quarters.
-Creating date columns as per needs in Power Query.
-Utilizing DAX to create calculated columns.
-Calculate and interpret essential financial metrics such as Gross Margin, Gross Margin %
-Customizing Pivot Tables, using filters & conditional formatting to extract specific insights.
- Ability to convey  summaries of key findings from the data analysis.
-Finding efficient ways to organize data, and interpreting complex data 
++ Learn to import data from different sources like CSV and Excel files.
++ Efficiency in ETL methodology (Extract, Transform, Load).
++ Ability to derive fiscal months and quarters.
++ Creating date columns as per needs in Power Query.
++ Utilizing DAX to create calculated columns.
++ Calculate and interpret essential financial metrics such as Gross Margin, Gross Margin %
++ Customizing Pivot Tables, using filters & conditional formatting to extract specific insights.
++ Ability to convey  summaries of key findings from the data analysis.
++ Finding efficient ways to organize data, and interpreting complex data 
 
 ### Tools used :
-Microsoft Excel, 
+Microsoft Excel 
 Pivot Tables
 Power Query
 Power Pivot
