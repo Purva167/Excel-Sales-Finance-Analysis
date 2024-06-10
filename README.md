@@ -1,7 +1,7 @@
 # Excel-Sales-Finance-Analysis
 
 Welcome to the CodeBasics Excel Sales and Finance Analytics project! This project aims to provide a comprehensive learning experience in using Microsoft Excel to analyze and interpret sales and financial data. Here, you will find an overview of the project, the tools and technologies used, and the skills you will develop.
-# Project Overview
+### Project Overview
 **Sales Analytics** : Focuses on analyzing sales data to understand performance trends, customer behavior, and product insights.
 1. Create a customer performance report(https://github.com/Purva167/Excel-Sales-Finance-Analysis/blob/main/Customer%20Net%20sales%20performance%20India.pdf) 
    highlighting sales in Fiscal Year 2019-2021 & comparison between 2021 vs 2020 sales.
@@ -12,10 +12,10 @@ Welcome to the CodeBasics Excel Sales and Finance Analytics project! This projec
 **Purpose of Sales analytics**: Understanding sales performance, identifying high value products, inventory management, identifying potential business expansion opportunities
 
 **Finance Analytics** :
-1.Create Profit and Loss (P&L) report by  Quarter (https://github.com/Purva167/Excel-Sales-Finance-Analysis/blob/main/P%20%26%20L%20by%20Month%2C%20Quarter.pdf) , 
-2. Profit and Loss (P&L) report by Fiscal Year (https://github.com/Purva167/Excel-Sales-Finance-Analysis/blob/main/P%20%26%20L%20by%20Year.pdf) 
-3. Exploring  Profit and Loss (P&L) report by Market (https://github.com/Purva167/Excel-Sales-Finance-Analysis/blob/main/P%20%26%20L%202021%20by%20Market.pdf) with 
-   focus on Gross Margin, Gross Margin %, Net Sales.
+1.  Create Profit and Loss (P&L) report by  Quarter (https://github.com/Purva167/Excel-Sales-Finance-Analysis/blob/main/P%20%26%20L%20by%20Month%2C%20Quarter.pdf) 
+2.  Profit and Loss (P&L) report by Fiscal Year (https://github.com/Purva167/Excel-Sales-Finance-Analysis/blob/main/P%20%26%20L%20by%20Year.pdf) 
+3.  Exploring  Profit and Loss (P&L) report by Market (https://github.com/Purva167/Excel-Sales-Finance-Analysis/blob/main/P%20%26%20L%202021%20by%20Market.pdf) 
+    with focus on Gross Margin, Gross Margin %, Net Sales.
  
 **Purpose of Finance Analytics**: Support Informed Decision-Making, Cash Flow Analysis &  for cost management
 
